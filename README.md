@@ -17,6 +17,6 @@ We use two hyperspectral datasets: Moffet and Madonna, which are used in Févott
 # Reference
 Daniel D Lee and H Sebastian Seung. Learning the parts of objects by non-negative matrix factorization. Nature, 401(6755):788–791, 1999.
 
-C´edric F´evotte and Nicolas Dobigeon. Nonlinear hyperspectral unmixing with robust nonnegative matrix factorization. IEEE Transactions on Image Processing, 24(12):4810–4819, Dec 2015.
+Cédric Févotte and Nicolas Dobigeon. Nonlinear hyperspectral unmixing with robust nonnegative matrix factorization. IEEE Transactions on Image Processing, 24(12):4810–4819, Dec 2015.
 
 David Sheeren, Mathieu Fauvel, Sylvie Ladet, Anne Jacquin, Georges Bertoni, and Annick Gibon. Mapping ash tree colonization in an agricultural mountain landscape: Investigating the potential of hyperspectral imagery. In Proc. IEEE Int. Conf. Geosci. Remote Sens. (IGARSS), Vancouver, Canada, pages 3672–3675, July 2011.
